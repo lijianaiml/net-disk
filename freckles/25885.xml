@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>freckles</folder>
+<filename>25885.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\freckles\25885.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>569</xmin>
+        <ymin>1998</ymin>
+        <xmax>1054</xmax>
+        <ymax>2288</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1175</xmin>
+        <ymin>1882</ymin>
+        <xmax>1388</xmax>
+        <ymax>2266</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1437</xmin>
+        <ymin>2059</ymin>
+        <xmax>1973</xmax>
+        <ymax>2305</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>857</xmin>
+        <ymin>1131</ymin>
+        <xmax>1506</xmax>
+        <ymax>1475</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>866</xmin>
+        <ymin>2415</ymin>
+        <xmax>967</xmax>
+        <ymax>2502</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1902</xmin>
+        <ymin>1802</ymin>
+        <xmax>2076</xmax>
+        <ymax>1997</ymax>
+    </bndbox>
+</object>
+</annotation>

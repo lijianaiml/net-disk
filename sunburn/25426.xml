@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>sunburn</folder>
+<filename>25426.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\sunburn\25426.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>炎症性色沉着</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1276</xmin>
+        <ymin>2313</ymin>
+        <xmax>1426</xmax>
+        <ymax>2389</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>炎症性色沉着</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1089</xmin>
+        <ymin>1095</ymin>
+        <xmax>1228</xmax>
+        <ymax>1191</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>炎症性色沉着</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1102</xmin>
+        <ymin>1940</ymin>
+        <xmax>1163</xmax>
+        <ymax>2008</ymax>
+    </bndbox>
+</object>
+</annotation>

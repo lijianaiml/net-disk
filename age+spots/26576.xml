@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>age spots</folder>
+<filename>26576.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\age spots\26576.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>705</xmin>
+        <ymin>1775</ymin>
+        <xmax>864</xmax>
+        <ymax>1954</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>老年斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>895</xmin>
+        <ymin>2448</ymin>
+        <xmax>956</xmax>
+        <ymax>2495</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1283</xmin>
+        <ymin>2337</ymin>
+        <xmax>1326</xmax>
+        <ymax>2404</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1673</xmin>
+        <ymin>2598</ymin>
+        <xmax>1702</xmax>
+        <ymax>2639</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>855</xmin>
+        <ymin>1127</ymin>
+        <xmax>907</xmax>
+        <ymax>1177</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>黄褐斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>409</xmin>
+        <ymin>1115</ymin>
+        <xmax>456</xmax>
+        <ymax>1173</ymax>
+    </bndbox>
+</object>
+</annotation>

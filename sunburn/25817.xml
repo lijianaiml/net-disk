@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>sunburn</folder>
+<filename>25817.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\sunburn\25817.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>褐青色痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2175</xmin>
+        <ymin>2042</ymin>
+        <xmax>2466</xmax>
+        <ymax>2537</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>褐青色痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>654</xmin>
+        <ymin>2280</ymin>
+        <xmax>1001</xmax>
+        <ymax>2642</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>晒斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1518</xmin>
+        <ymin>2334</ymin>
+        <xmax>1643</xmax>
+        <ymax>2589</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>黄褐斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1747</xmin>
+        <ymin>2416</ymin>
+        <xmax>2183</xmax>
+        <ymax>2767</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>晒斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1276</xmin>
+        <ymin>2322</ymin>
+        <xmax>1491</xmax>
+        <ymax>2691</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1509</xmin>
+        <ymin>3510</ymin>
+        <xmax>1578</xmax>
+        <ymax>3588</ymax>
+    </bndbox>
+</object>
+</annotation>

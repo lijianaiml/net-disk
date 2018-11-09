@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>sunburn</folder>
+<filename>29385.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\sunburn\29385.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>晒斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>979</xmin>
+        <ymin>2130</ymin>
+        <xmax>1111</xmax>
+        <ymax>2256</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>黄褐斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1733</xmin>
+        <ymin>1951</ymin>
+        <xmax>1890</xmax>
+        <ymax>2114</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>黑头</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1136</xmin>
+        <ymin>2261</ymin>
+        <xmax>1371</xmax>
+        <ymax>2484</ymax>
+    </bndbox>
+</object>
+</annotation>

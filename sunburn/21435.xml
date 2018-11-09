@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>sunburn</folder>
+<filename>21435.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\sunburn\21435.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>晒斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>915</xmin>
+        <ymin>2150</ymin>
+        <xmax>974</xmax>
+        <ymax>2200</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>黑头</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1028</xmin>
+        <ymin>2172</ymin>
+        <xmax>1310</xmax>
+        <ymax>2482</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>晒斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1098</xmin>
+        <ymin>2603</ymin>
+        <xmax>1364</xmax>
+        <ymax>2711</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>687</xmin>
+        <ymin>2632</ymin>
+        <xmax>755</xmax>
+        <ymax>2688</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>826</xmin>
+        <ymin>2496</ymin>
+        <xmax>871</xmax>
+        <ymax>2537</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>654</xmin>
+        <ymin>2453</ymin>
+        <xmax>677</xmax>
+        <ymax>2489</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1008</xmin>
+        <ymin>2573</ymin>
+        <xmax>1060</xmax>
+        <ymax>2627</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1485</xmin>
+        <ymin>2373</ymin>
+        <xmax>1514</xmax>
+        <ymax>2407</ymax>
+    </bndbox>
+</object>
+</annotation>

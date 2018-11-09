@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>freckles</folder>
+<filename>27052.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\freckles\27052.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>黑头</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1049</xmin>
+        <ymin>2313</ymin>
+        <xmax>1362</xmax>
+        <ymax>2646</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1566</xmin>
+        <ymin>2866</ymin>
+        <xmax>1633</xmax>
+        <ymax>2942</ymax>
+    </bndbox>
+</object>
+</annotation>

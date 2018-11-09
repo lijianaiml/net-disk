@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>brown blue nevus</folder>
+<filename>34298.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\brown blue nevus\34298.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>褐青色痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>442</xmin>
+        <ymin>2107</ymin>
+        <xmax>967</xmax>
+        <ymax>2427</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>褐青色痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1680</xmin>
+        <ymin>1894</ymin>
+        <xmax>1834</xmax>
+        <ymax>2229</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>黑头</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1037</xmin>
+        <ymin>2194</ymin>
+        <xmax>1334</xmax>
+        <ymax>2480</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>褐青色痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>473</xmin>
+        <ymin>1577</ymin>
+        <xmax>766</xmax>
+        <ymax>1801</ymax>
+    </bndbox>
+</object>
+</annotation>

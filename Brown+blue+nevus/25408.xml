@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>brown blue nevus</folder>
+<filename>25408.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\brown blue nevus\25408.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>褐青色痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>485</xmin>
+        <ymin>1753</ymin>
+        <xmax>677</xmax>
+        <ymax>2041</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>炎症性色沉着</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1497</xmin>
+        <ymin>2125</ymin>
+        <xmax>1665</xmax>
+        <ymax>2348</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>褐青色痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1677</xmin>
+        <ymin>1829</ymin>
+        <xmax>1892</xmax>
+        <ymax>2075</ymax>
+    </bndbox>
+</object>
+</annotation>

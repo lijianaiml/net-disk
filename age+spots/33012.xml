@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>age spots</folder>
+<filename>33012.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\age spots\33012.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>老年斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>851</xmin>
+        <ymin>2009</ymin>
+        <xmax>978</xmax>
+        <ymax>2121</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>743</xmin>
+        <ymin>2244</ymin>
+        <xmax>1211</xmax>
+        <ymax>2586</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1962</xmin>
+        <ymin>2237</ymin>
+        <xmax>2206</xmax>
+        <ymax>2662</ymax>
+    </bndbox>
+</object>
+</annotation>

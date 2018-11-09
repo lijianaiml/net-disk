@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>freckles</folder>
+<filename>31888.jpg</filename>
+<path>C:\Users\Administrator\Desktop\皮肤标注验证\spots\freckles\31888.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1688</xmin>
+        <ymin>2535</ymin>
+        <xmax>2234</xmax>
+        <ymax>2815</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>雀斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>660</xmin>
+        <ymin>2531</ymin>
+        <xmax>1215</xmax>
+        <ymax>2795</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>748</xmin>
+        <ymin>2961</ymin>
+        <xmax>819</xmax>
+        <ymax>3019</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1825</xmin>
+        <ymin>3165</ymin>
+        <xmax>1892</xmax>
+        <ymax>3214</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>色素痣</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2045</xmin>
+        <ymin>3151</ymin>
+        <xmax>2089</xmax>
+        <ymax>3209</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>老年斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>884</xmin>
+        <ymin>1491</ymin>
+        <xmax>971</xmax>
+        <ymax>1571</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>老年斑</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1780</xmin>
+        <ymin>1393</ymin>
+        <xmax>1887</xmax>
+        <ymax>1480</ymax>
+    </bndbox>
+</object>
+</annotation>
